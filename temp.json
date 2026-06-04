@@ -14,11 +14,11 @@
     },
     "fixedShifts": {
     "techops": {
-      "0": "@ramed",
+      "5": "@ramed",
       "6": "@ramed"
     },
     "it": {
-      "0": "@afzouni",
+      "5": "@afzouni",
       "6": "@afzouni"
     }
   }
