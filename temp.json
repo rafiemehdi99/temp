@@ -1,16 +1,15 @@
 {
     "startDate": "2026-06-02",
     "teams": {
-      "platform": ["@kianoush", "@masoud", "@mahdi.darabi"],
+      "platform": ["@mahdi.darabi", "@masoud", "@kianoush"],
       "system": ["@alireza.heda", "@erfan", "@yasser", "@reza", "@m.malekan"],
       "crisis": ["@hosein", "@masih", "@afzouni", "@pegah-pazhouhesh", "@Mafiam"],
       "techops": ["@Mahan-TechOps", "@shahinbayani73"],
       "support": ["@ZaraHajipour", "@Mirhossein", "@mahsa.gh"],
       "it": ["@S.tahamtan"],
-      "finance": ["@ali.khalilian"],
+      "finance": ["@Rahilkz"],
       "tome": ["@payam"],
-      "pricer": ["@mmd550"],
-      "security": ["@omid"]
+      "pricer": ["@mmd550"]
     },
     "fixedShifts": {
     "techops": {
